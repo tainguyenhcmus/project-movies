@@ -1,0 +1,10 @@
+.wrapper-lazy-image {
+  display: flex !important;
+  height: 80%;
+  width: 80%;
+  margin: 10%;
+}
+
+.right-overview {
+  margin: 5%;
+}

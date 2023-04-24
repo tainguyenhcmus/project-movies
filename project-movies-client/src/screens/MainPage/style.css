@@ -1,0 +1,12 @@
+.list-movie--container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.list-movie--container--list-view {
+  display: flex;
+  flex-flow: column wrap;
+}
